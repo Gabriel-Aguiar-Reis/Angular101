@@ -6,3 +6,6 @@
     margin: 0 20px 0 0;
     list-style: none;
 }
+.menu__bar__container > ul > li > a {
+    text-decoration: none;
+}
