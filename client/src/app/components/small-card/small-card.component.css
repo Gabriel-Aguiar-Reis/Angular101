@@ -1,0 +1,28 @@
+.small__card__container {
+    margin: 0 0 10px 0;
+    cursor: pointer;
+}
+.small__card__hr > hr {
+    border-color: #131313;
+    background-color: #131313;
+}
+.small__card__content {
+    display: flex;
+    flex-direction: row;
+    padding: 0 0 10px 0;
+    max-width: 600px;
+}
+.small__card__photo > img {
+    max-width: 200px;
+    min-width: 200px;
+    margin: 0 20px 0 0;
+}
+.small__card__author > h4 {
+    margin-top: .2rem;
+    color: grey;
+}
+.small__card__title > h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

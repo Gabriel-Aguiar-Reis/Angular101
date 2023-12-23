@@ -1,0 +1,23 @@
+.main__card__container {
+    display: flex;
+    flex-direction: column;
+    margin: 0 2rem;
+    justify-content: flex-start;
+    align-items: flex-start;
+    max-width: 600px;
+    cursor: pointer;
+}
+.main__card__photo > img{
+    max-width: 100%;
+    min-width: 80%;
+}
+.main__card__author > h4 {
+    margin-top: .2rem;
+    color: grey;
+}
+.main__card__title {
+    margin: .5rem 0;
+}
+.main__card__description > p {
+    color: grey;
+}

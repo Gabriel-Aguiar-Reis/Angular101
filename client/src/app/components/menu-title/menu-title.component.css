@@ -1,0 +1,12 @@
+.menu__title__container > h1{
+    display: flex;
+    justify-content: center;
+    font-size: 10rem;
+}
+
+.menu__title__container > hr{
+    margin: 1rem 0;
+    padding: 0;
+    border-color: grey;
+    background-color: grey;
+}
